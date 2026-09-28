@@ -10,8 +10,4 @@ Ethical Hacking
 
 
 ## Goal
-Become a professional Cybersecurity Analyst while documenting my progress publicly.
-
-
-# My-cybersecurity-journey
-My 100 day cyber security journey
+Become a professional Cybersecurity Analyst while documenting my progress 
